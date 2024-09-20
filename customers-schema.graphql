@@ -5,7 +5,7 @@ extend schema
       "@requires",
       "@external",
       "@tag",
-      "@shareable"
+      "@override"
     ]
   )
 
